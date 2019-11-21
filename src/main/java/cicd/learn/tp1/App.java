@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println( "feature3 begin" );
         System.out.println( "CI/CD rocks!" );
     }
 }

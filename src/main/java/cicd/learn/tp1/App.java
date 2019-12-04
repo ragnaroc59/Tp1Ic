@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "feature4 begin" );
+        System.out.println( "Test auto build" );
     }
 }

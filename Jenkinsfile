@@ -6,6 +6,7 @@ pipeline {
             steps {
                 checkout scm
                 bat 'mvn package'
+                
             }
         }
     }
